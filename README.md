@@ -3,6 +3,13 @@
 ## Project Overview
 MailCraft is an email writing application that provides users with a seamless experience for composing and managing their emails. The application consists of three main components: an extension for quick access, a frontend for user interaction, and a backend for managing email operations.
 
+<img width="679" height="400" alt="image" src="https://github.com/user-attachments/assets/3d09ff3e-53af-48cb-9b60-2f04ca59143e" />
+
+<img width="389" height="362" alt="image" src="https://github.com/user-attachments/assets/e147a29c-9564-4dd6-abb1-45b89344fa70" />
+<img width="475" height="212" alt="image" src="https://github.com/user-attachments/assets/da67f2f9-9144-420d-85d6-49b2c08d2454" />
+
+
+
 ## Features
 - User-friendly interface for composing emails
 - Rich text editor for formatting
